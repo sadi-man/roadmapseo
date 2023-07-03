@@ -1,0 +1,4 @@
+baseURL = 'https://roadmapseo.pages.dev/'
+languageCode = 'en-us'
+title = 'Roadmap SEO'
+theme = 'tale'
